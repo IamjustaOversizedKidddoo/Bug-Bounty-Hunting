@@ -7,11 +7,11 @@
 ╚═════╝  ╚═════╝  ╚═════╝     ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝      ╚═╝
 ```
 
-[![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%236-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/advanced/bug-bounty-platform)
+[![Bug Bounty Hunting](https://img.shields.io/badge/Bug--Bounty--Hunting-Project-red?style=flat&logo=github)](https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting)
 [![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Live Demo](https://img.shields.io/badge/Live-bugbounty.carterperez--dev.com-green?style=flat&logo=googlechrome)](https://bugbounty.carterperez-dev.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-IamjustaOversizedKidddoo-green?style=flat&logo=github)](https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 
 > Production-ready enterprise bug bounty platform with role-based access, CVSS scoring, and full report triage workflows.
@@ -33,7 +33,7 @@
 docker compose up -d
 ```
 
-Visit `http://localhost:8420` or the live demo at [bugbounty.carterperez-dev.com](https://bugbounty.carterperez-dev.com/)
+Visit `http://localhost:8420` to access the platform.
 
 > [!TIP]
 > This project uses [`just`](https://github.com/casey/just) as a command runner. Type `just` to see all available commands.

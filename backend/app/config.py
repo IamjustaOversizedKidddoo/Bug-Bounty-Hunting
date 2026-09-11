@@ -129,12 +129,12 @@ class Settings(BaseSettings):
 
     APP_NAME: str = "bug-bounty-platform"
     APP_VERSION: str = "1.0.0"
-    APP_SUMMARY: str = "Developed CarterPerez-dev"
+    APP_SUMMARY: str = "Developed by Ayan Abbas"
     APP_DESCRIPTION: str = "FastAPI async first boilerplate - JWT, Asyncdb, PostgreSQL"
     APP_CONTACT_NAME: str = "AngelaMos LLC"
     APP_CONTACT_EMAIL: str = "support@certgames.com"
     APP_LICENSE_NAME: str = "MIT"
-    APP_LICENSE_URL: str = "https://github.com/CarterPerez-dev/Cybersecurity-Projects/blob/main/LICENSE"
+    APP_LICENSE_URL: str = "https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting/blob/main/LICENSE"
 
     ENVIRONMENT: Environment = Environment.DEVELOPMENT
     DEBUG: bool = False

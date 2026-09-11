@@ -16,8 +16,8 @@
 
 <br>
 
-<a href="https://bugbounty.carterperez-dev.com">
-  <img src="https://img.shields.io/badge/▶_TRY_IT_LIVE-bugbounty.carterperez--dev.com-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+<a href="https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting">
+  <img src="https://img.shields.io/badge/▶_VIEW_ON_GITHUB-Bug--Bounty--Hunting-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
 </a>
 
 <br>

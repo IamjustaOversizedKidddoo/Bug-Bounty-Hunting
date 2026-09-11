@@ -43,8 +43,8 @@ dev = [
 
 [project.urls]
 Homepage = "https://bugbountyplatform.sh"
-Repository = "https://github.com/CarterPerez-dev/Cybersecurity-Projects"
-Issues = "https://github.com/CarterPerez-dev/Cybersecurity-Projects/issues"
+Repository = "https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting"
+Issues = "https://github.com/IamjustaOversizedKidddoo/Bug-Bounty-Hunting/issues"
 
 
 [build-system]
